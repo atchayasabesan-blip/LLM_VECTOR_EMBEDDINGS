@@ -1,0 +1,1 @@
+Week 11 – Vector Embeddings with ChromaDB
